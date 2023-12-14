@@ -1,0 +1,8 @@
+.print{
+    display:flex !important;
+    font-family: "Times New Roman";
+}
+.row{
+    position:relative;
+    right:50%
+}

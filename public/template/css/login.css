@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.text-align-center {
+    text-align: center;
+    top: 12px;
+    left: -85px;
+    position: relative;
+}
+.logo{
+    margin-top: 50px;
+    margin-right: 142px;
+}
+.logo img{
+    width: 8.5rem !important;
+    padding-bottom: 2.5rem !important;
+    box-sizing: border-box;
+}
+.main-left{
+    padding: 154px 108px 0 0 !important;
+}
+.form-control{
+    padding: 0.5rem !important;
+    display: block !important;
+    width: 75% !important;
+    margin-bottom: 10px;
+    padding: 0.375rem 0.75rem !important;
+    font-size: 1rem !important;
+    font-weight: 400 !important;
+    line-height: 1.5 !important;
+}
+.block-title{
+    text-align: center;
+    margin-left: -117px;
+}
+.block-title h1{
+    font-size: 27px;
+}
+.img-user{
+    text-align: left;
+    position: relative;
+    left: 30px;
+}
+.img{
+    margin-bottom: 5px !important;
+}
+.img-user img{
+    margin-bottom: 5px;
+}
+#button-login{
+    border: 1px solid #ced4da !important;
+    background-color: white !important;
+    border-radius: 5px !important;
+    margin-bottom: 10px !important;
+    width: 75% !important;
+    height: 39px !important;
+    font-weight: 500 !important;
+}
+
+.in-img{
+    font-size: 14px !important;
+}
+.had{
+    font-size: 14px;
+}
+.text-align-center a {
+    text-decoration: none;
+    color: black;
+}
+.text-align-center a:hover{
+    color: #d93032 ;
+}
+#button:hover{
+   background-color: #d93032 !important;
+}
+.login-rsg:hover{
+    color: #d93032 !important;
+}
+
+

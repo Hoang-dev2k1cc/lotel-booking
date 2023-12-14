@@ -1,0 +1,32 @@
+
+body{
+    font-family: "Times New Roman", Times, serif;
+}
+.col-sm{
+    background-color:white ;
+    border-radius: 30px;
+    margin: 2px;
+
+}
+.history-booking ul li{
+   list-style:none;
+   border: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color)!important;
+   border-radius: 5px;
+   box-shadow: 0 0.5rem 1rem rgba(var(--bs-body-color-rgb),.15)!important;
+   display: inline-block;
+   margin-right: 13px;
+   margin-bottom: 13px;
+   padding: 28px;
+    width: 43%;
+}
+.history-booking ul{
+    position: relative;
+    right: -61px;
+}
+.history-booking ul li div{
+    text-align:left;
+}
+.title-history{
+    text-align: center;
+    padding:20px;
+}
