@@ -34,32 +34,32 @@
 }
 #fillter1{
     position: absolute;
-    left: 246px !important;
+    left: 266px !important;
 
 }
 #fillter2{
     position: absolute;
-    left: 412px !important;
+    left: 455px !important;
 
 
 }
 #fillter3{
     position: absolute;
-    left: 578px;
+    left: 644px;
 
 
 
 }
 #fillter4{
     position: absolute;
-    left:773px;
+    left:866px;
 
 
 
 }
 #fillter5{
     position: absolute;
-    left: 939px;
+    left: 1054px;
 
 
 }
@@ -78,4 +78,17 @@
 #price{
     width: 23%;
     margin-right: 10px;
+}
+.colaps{
+    top: 148px !important;
+    height: 46px !important;
+    left: 1271px !important;
+    float: right !important;
+    position: absolute !important;
+    width: 44px !important;
+}
+.dropdown-menu{
+    width:1115px !important;
+    left:-290px !important;
+
 }

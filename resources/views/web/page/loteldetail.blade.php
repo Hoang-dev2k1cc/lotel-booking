@@ -35,14 +35,6 @@
     top: 32px;
 
 }
-.colaps{
-    top: 148px !important;
-    height: 46px !important;
-    left: 1117px !important;
-    float: right !important;
-    position: absolute !important;
-    width: 44px !important;
-}
     </style>
     <link rel="stylesheet" href="{{ asset('template/css/lightslider.css') }}" >
     <link rel="stylesheet" href="{{ asset('template/css/prettify.css') }}" >

@@ -1,19 +1,8 @@
 @extends('layouts.master')
 @section('content')
 <head>
-    <style>.colaps{
-        top: 148px !important;
-        height: 46px !important;
-        left: 1117px !important;
-        float: right !important;
-        position: absolute !important;
-        width: 44px !important;
-    }
-    .dropdown-menu{
-    width:1115px !important;
-    left:-120px !important;
-
-}</style>
+    <style>
+    </style>
 </head>
     <div class="main">
         <div class="content">
